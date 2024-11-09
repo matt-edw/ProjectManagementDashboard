@@ -1,0 +1,15 @@
+.header {
+    text-align: center;
+    padding: 20px;
+}
+
+.header-title {
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.header-line {
+    width: 80%;
+    margin: 10px auto;
+}
